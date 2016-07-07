@@ -12,15 +12,6 @@
     "email": "alanthales@gmail.com",
     "url": "https://github.com/alanthales"
   },
-  "files": [
-    "app",
-    "directive",
-    "filter",
-    "modal",
-    "module",
-    "partial",
-    "service"
-  ],
   "main": "app/index.js",
   "repository": {
     "type": "git",
